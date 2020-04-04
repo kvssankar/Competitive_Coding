@@ -1,0 +1,11 @@
+6
+Raju 12356 1000.00
+Sam 12789 980.00
+Ram 13457 975.50
+Sherley 16789 1500.00
+Sheela 17890 1345.50
+Kamala 12378 2567.75
+3
+Ram 2 Bread 50.00 Jam 25.00
+Sherley 3 Milk 20.00 Bread 50.00 Butter 31.50
+Mukesh 4 Chocolate 15.00 Chips 12.50 Rice 29.00 Dall 31.25
